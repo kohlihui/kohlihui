@@ -1,5 +1,5 @@
 <h1 style="text-align: center">Hello ~ 👋👋</h1>
-<img align="right" alt="programmer" width="200" src = https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif9>
+<img align="right" alt="programmer" width="300" src = "https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
 - 🔭 I’m currently studying Bachelor of Computer Science (Data Engineering) in Faculty of Computing, Universiti Teknologi Malaysia (UTM).
 - 📫 How to reach me: k.l.hui2003@gmail.com
