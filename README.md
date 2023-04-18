@@ -7,7 +7,7 @@
 - 😄 Pronouns: Hui
 - ⚡ Fun fact: Everyday must listen a music to create a happy feeling.<br>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kohlihui" alt="kohlihui" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kohlihui" alt="kohlihui" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kohlihui&show_icons=true&locale=en" alt="kohlihui" /></p>
 
