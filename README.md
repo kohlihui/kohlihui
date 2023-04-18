@@ -9,6 +9,6 @@
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kohlihui" alt="kohlihui" /></a> </p>
 
-<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=kohlihui&show_icons=true&locale=en" alt="kohlihui" /></p>
+<p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=kohlihui&show_icons=true&locale=en" alt="kohlihui" /></p>
 
-<p><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=kohlihui&" alt="kohlihui" /></p>
+<p><img align="right" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=kohlihui&" alt="kohlihui" /></p>
