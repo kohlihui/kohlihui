@@ -64,17 +64,18 @@
 <br clear="right"/>
 
 ### 🔗 Connect With Me
+
 <p align="left">
   <a href="mailto:k.l.hui2003@gmail.com">
-    https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    📧 Email
   </a>
-
-  https://www.linkedin.com/in/koh-li-hui-4600a6257/" target="_blank">
-    7B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/koh-li-hui-4600a6257/" target="_blank">
+    💼 LinkedIn
   </a>
-
-  github.com/kohlihui" target="_blank">
-    img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;|&nbsp;
+  <a href="https://github.com/kohlihui" target="_blank">
+    👨‍💻 GitHub
   </a>
 </p>
 
