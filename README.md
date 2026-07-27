@@ -16,8 +16,8 @@
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?_icons=true&theme=tokyonight
-  <img width="48%" src="httpsk-stats.herokuapp.com/?user=kohlihui&theme=tokyonight
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kohlihui&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.herokuapp.com/?user=kohlihui&theme=tokyonight" />
 </p>
 
 ### 🌱 Currently Learning
