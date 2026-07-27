@@ -38,4 +38,4 @@
 
 ---
 
-⭐ Data Engineering Graduate @ UTM | SAP Business Analyst Intern @ PPG
+⭐ Enjoy every moment, cherish every opportunity, and continuously strive to become the best version of myself.
