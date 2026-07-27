@@ -61,6 +61,23 @@
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=kohlihui&" alt="kohlihui" />
 </p>
 
+<br clear="right"/>
+
+### 🔗 Connect With Me
+<p align="left">
+  <a href="mailto:k.l.hui2003@gmail.com">
+    https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  https://www.linkedin.com/in/koh-li-hui-4600a6257/" target="_blank">
+    7B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  github.com/kohlihui" target="_blank">
+    img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
