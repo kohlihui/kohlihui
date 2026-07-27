@@ -16,7 +16,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  ://github-profile-trophy.vercel.app/?username=kohlihui&theme=tokyonight&row=1&column=6" />
+  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=kohlihui&" alt="kohlihui" />
 </p>
 
 ### 📈 GitHub Statistics
