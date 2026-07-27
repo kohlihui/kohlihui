@@ -31,6 +31,8 @@
 - Involved in System Integration Testing (SIT) and User Acceptance Testing (UAT).
 - Collaborated with business users, technical teams, and external stakeholders to ensure successful deployment.
 
+<br clear="right"/>
+
 ### 🌱 Currently Learning
 - SAP S/4HANA
 - Business Process Analysis
