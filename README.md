@@ -20,7 +20,17 @@
 - 👥 Member of Persatuan Mahasiswa Sains Komputer (PERSAKA), Faculty of Computing, Universiti Teknologi Malaysia (UTM)
 - 🤝 Passionate about community engagement, teamwork, and leadership development
 - 📈 Dedicated to leveraging data and technology to solve real-world business challenges
-- 
+
+### 💼 Internship Projects @ PPG
+
+#### 🏭 New Plant Creation & 3PL Integration in SAP S/4HANA
+- Supported the implementation of a new plant setup in SAP S/4HANA.
+- Participated in Third-Party Logistics (3PL) integration to support end-to-end supply chain operations.
+- Assisted in interface data mapping and validation through Seeburger middleware.
+- Supported master data creation, testing, and data migration activities.
+- Involved in System Integration Testing (SIT) and User Acceptance Testing (UAT).
+- Collaborated with business users, technical teams, and external stakeholders to ensure successful deployment.
+
 ### 🌱 Currently Learning
 - SAP S/4HANA
 - Business Process Analysis
