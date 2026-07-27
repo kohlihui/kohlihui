@@ -11,6 +11,14 @@
 - 📫 Reach me at: **k.l.hui2003@gmail.com**
 - 🎵 Fun fact: Music is essential to my daily productivity and happiness!
 
+
+### 🌱 Currently Learning
+
+- SAP S/4HANA
+- Business Process Analysis
+- Data Engineering & Analytics
+- SQL & Python
+
 <br clear="right"/>
 
 ### 📈 GitHub Statistics
@@ -19,12 +27,6 @@
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=kohlihui&" alt="kohlihui" />
 </p>
 
-### 🌱 Currently Learning
-
-- SAP S/4HANA
-- Business Process Analysis
-- Data Engineering & Analytics
-- SQL & Python
 
 ---
 
