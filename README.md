@@ -13,17 +13,12 @@
 
 <br clear="right"/>
 
-### 🏆 GitHub Trophies
+### 📈 GitHub Statistics
 
 <p align="center">
   <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=kohlihui&" alt="kohlihui" />
 </p>
 
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=kohlihui&show_icons=true&locale=en" alt="kohlihui" />
-</p>
 
 ### 🌱 Currently Learning
 
