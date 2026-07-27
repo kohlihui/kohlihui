@@ -13,8 +13,15 @@
 
 <br clear="right"/>
 
+### 🏅 Achievements & Leadership
+- 🥈 Silver Medalist — UTM x UMK Datathon 2025
+- 🏆 Excellent University Project Award — Smart Waste Collection System
+- 🏸 Club Secretary & Event Committee, Badminton Gala Service Learning Program with the Orang Asli Community
+- 👥 Member of Persatuan Mahasiswa Sains Komputer (PERSAKA), Faculty of Computing, Universiti Teknologi Malaysia (UTM)
+- 🤝 Passionate about community engagement, teamwork, and leadership development
+- 📈 Dedicated to leveraging data and technology to solve real-world business challenges
+- 
 ### 🌱 Currently Learning
-
 - SAP S/4HANA
 - Business Process Analysis
 - Data Engineering & Analytics
