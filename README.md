@@ -25,13 +25,13 @@
 <br clear="right"/>
 
 ### 🚀 Featured Projects
--  **Kutip Smart Waste Collection System (2025)** 
--  **Enterprise Project Management System (2025)**
--  **ROUTESMART – AI-Driven Road Navigation Application**
--  **UTM Student Management System (SMS)**
--  **Youth Ventures Student Portfolio Management System (StuPort)**
--  **KTDI Event Management System**
--  **Emo-Whacker Game**
+-  **Kutip Smart Waste Collection System** (2025) 
+-  **Enterprise Project Management System** (2025)
+-  **ROUTESMART – AI-Driven Road Navigation Application** (2025)
+-  **UTM Student Management System (SMS)** (2024)
+-  **Youth Ventures Student Portfolio Management System (StuPort)** (2024)
+-  **KTDI Event Management System** (2023)
+-  **Emo-Whacker Game** (2023)
 
 <br clear="right"/>
 
