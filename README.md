@@ -16,8 +16,9 @@
 ### 📈 GitHub Statistics
 
 <p align="center">
-  https://github-readme-streak-stats.herokuapp.com/?user=kohlihui&theme=tokyonight
-</p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kohlihui&themep>
+<br>
 
 ### 🌱 Currently Learning
 
