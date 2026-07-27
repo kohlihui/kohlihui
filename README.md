@@ -21,6 +21,8 @@
 - 🤝 Passionate about community engagement, teamwork, and leadership development
 - 📈 Dedicated to leveraging data and technology to solve real-world business challenges
 
+<br clear="right"/>
+
 ### 💼 Internship Projects @ PPG
 
 #### 🏭 New Plant Creation & 3PL Integration in SAP S/4HANA
