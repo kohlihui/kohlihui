@@ -5,8 +5,8 @@
 
 ### 👧 About Me
 
-- 🎓 Final-Year Bachelor of Computer Science (Data Engineering) Student, Universiti Teknologi Malaysia (UTM)
-- 📅 Expected Graduation: November 2026
+- 🎓 Bachelor of Computer Science (Data Engineering), Universiti Teknologi Malaysia (UTM)
+- 🌱 Fresh Graduate | Class of 2026
 - 💼 SAP Business Analyst Intern @ PPG
 - 📊 Interested in Data Engineering, Data Analytics, SAP & Business Process Solutions
 - 📫 Reach me at: **k.l.hui2003@gmail.com**
